@@ -1,0 +1,58 @@
+	<svg height="300" width="400">
+	<g transform="translate(40,20)">
+		<g class="x axis" transform="translate(0,230)">
+			<g class="tick" style="opacity: 1;" transform="translate(45.5,0)">
+				<line x2="0" y2="6"></line>
+				<text dx="2em" dy="1em" style="text-anchor: end;" transform="rotate(0)" x="0" y="9">
+					27-05-2018
+				</text>
+			</g>
+			<g class="tick" style="opacity: 1;" transform="translate(128.5,0)">
+				<line x2="0" y2="6"></line>
+				<text dx="2em" dy="1em" style="text-anchor: end;" transform="rotate(0)" x="0" y="9">
+					28-05-2018
+				</text>
+			</g>
+			<g class="tick" style="opacity: 1;" transform="translate(211.5,0)">
+				<line x2="0" y2="6"></line>
+				<text dx="2em" dy="1em" style="text-anchor: end;" transform="rotate(0)" x="0" y="9">
+					29-05-2018
+				</text>
+			</g>
+			<g class="tick" style="opacity: 1;" transform="translate(294.5,0)">
+				<line x2="0" y2="6"></line>
+				<text dx="2em" dy="1em" style="text-anchor: end;" transform="rotate(0)" x="0" y="9">
+					30-05-2018
+				</text>
+			</g>
+			<path class="domain" d="M0,6V0H340V6"></path>
+		</g>
+		<g class="y axis">
+			<g class="tick" style="opacity: 1;" transform="translate(0,230)">
+				<line x2="-6" y2="0"></line>
+				<text dy=".32em" style="text-anchor: end;" x="-9" y="0">
+					0
+				</text>
+			</g>
+			<g class="tick" style="opacity: 1;" transform="translate(0,115)">
+				<line x2="-6" y2="0"></line>
+				<text dy=".32em" style="text-anchor: end;" x="-9" y="0">
+					2
+				</text>
+			</g>
+			<g class="tick" style="opacity: 1;" transform="translate(0,0)">
+				<line x2="-6" y2="0"></line>
+				<text dy=".32em" style="text-anchor: end;" x="-9" y="0">
+					4
+				</text>
+			</g>
+			<path class="domain" d="M-6,0H0V230H-6"></path>
+			<text dx="5em" dy="0em" style="text-anchor: end;" transform="rotate(0)" y="5">
+				Crowded
+			</text>
+		</g>
+		<rect class="bar" height="57.5" width="79" x="6" y="172.5"></rect>
+		<rect class="bar" height="115" width="79" x="89" y="115"></rect>
+		<rect class="bar" height="230" width="79" x="172" y="0"></rect>
+		<rect class="bar" height="172.5" width="79" x="255" y="57.5"></rect>
+	</g></svg>
